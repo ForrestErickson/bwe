@@ -36,3 +36,6 @@ From start of design to first production.
 - Assemble first unit(s) and engineering test.
 - Engineering revise and release for rest of Prototype Run. Update of engineering, sales, legal documentation with photographs measurements of real hardware.
 - Changes and repeat all of the above for Pilot Run (First selleable units with serial numbers etc).
+
+  ## Reference
+  A design review article: https://resources.altium.com/p/pcb-design-and-review-checklist
