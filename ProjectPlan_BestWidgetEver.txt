@@ -2,7 +2,10 @@
 
 ## Project plan for BWE
 ## Write and maingain both Functional Specifications and Technical Specifications.
-Refere to: https://doyouevenerp.com/functional-vs-technical-specifications/
+###Referene:
+Original Link: https://doyouevenerp.com/functional-vs-technical-specifications/  
+Now at the Way Back Machine: https://web.archive.org/web/20220121192628/https://doyouevenerp.com/functional-vs-technical-specifications/
+
 
 Folders:  
 - firmware, holds firmware for BWE
