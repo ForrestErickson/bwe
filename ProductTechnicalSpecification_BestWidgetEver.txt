@@ -1,9 +1,11 @@
 # Best Widget Ever also known as: BWE
 
 ## Product Technical specification for BWE. How we are going to develop.
-Reference: https://doyouevenerp.com/functional-vs-technical-specifications/
+**Instructions for writing Product Technical Specifications**
+Original Link: https://doyouevenerp.com/functional-vs-technical-specifications/
+Now at the Way Back Machine: https://web.archive.org/web/20220121192628/https://doyouevenerp.com/functional-vs-technical-specifications/
 
-BWE Technology List:
+### BWE Technology List:
 - Use git for version control
 - Coding standard: Barr Group.....
 - Internal server for master git repository 
