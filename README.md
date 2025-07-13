@@ -31,6 +31,8 @@ From start of design to first production.
 - Place on the PCB silk screen a location for Serial Number to be applied at start of manufacture.
 - Place on the PCB silk screen a logo.
 - Place on the PCB silk screen a license or statement of copywrite.
+- Add "tooling holes" for PCB manufacturer.
+- If necessary, add rails for PWA manufacturing.
 - Enclosure design review. (Make card board Mockup, Cable Mockup. PCB Mockup.) Make sure of clearance around all mounting hardware for screw / nut drivers.
 - **Enclosure design freeze for prototype PCB. PCB outline and connector placement freeze.**
 - PCB outline import parts and make and connector placement. Make Mockup for fit to enclosure
