@@ -8,6 +8,7 @@ Original Link: https://doyouevenerp.com/functional-vs-technical-specifications/
 Now at the Way Back Machine: https://web.archive.org/web/20220121192628/https://doyouevenerp.com/functional-vs-technical-specifications/
 
 ### BWE Technology List:  
+Capture all the information necessary for duplicating the development environment, **ALL** tools and versions therof. Training and reference information on tools.  
 - Use stone knives and bear skins as necessary
 - Git version control on local machines. [Git-scm 2.47.0](https://git-scm.com/downloads)  
 - Use GutHub for public repository and the project development features of Issues, Boards, Roadmaps and so on...
@@ -33,6 +34,12 @@ Now at the Way Back Machine: https://web.archive.org/web/20220121192628/https://
 -- You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 -- For tables [tablesgenerator.com](https://tablesgenerator.com/markdown_tables).
 -- For online spelling check [Link](https://www.online-spellcheck.com/)
+
+### BWE Technology Implementation:  
+Describe how the tools are used together. 
+- KiCAD printed wiring assemblies rendered in 3D STEP files for use in FreeCAD Assembly work bench
+- KiCAD Gerber files, Parts List and Placement files used to order fabrication of printed wiring assemblies, PWAs. Part List must generated to conform to JLCPCB or PCBWay template for example.
+- FreeCAD parts exported in STEP / STL for fabrication. Files must be generated in format for, by example 3D printing, for slicing or for another example laser cutting and bending.
 
 ### BWE Marketing and Sales:
 #### Marketing

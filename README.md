@@ -17,7 +17,7 @@ Folders:
 ## This project milestones
 From start of design to first production.
 - Product Functional Specification Released.
-- Proof of concept, sketches, drawings, mock-ups, bread boards and wishful thinking.
+- Proof of concept, sketches, drawings, Mockups, bread boards and wishful thinking.
 - Schematics and drawings for all parts in folders, electrical and mechanical.
 - Test points for manufacturing / troubleshooting especially for power.
 - Update parts master to assign Part Numbers
@@ -31,10 +31,12 @@ From start of design to first production.
 - Place on the PCB silk screen a location for Serial Number to be applied at start of manufacture.
 - Place on the PCB silk screen a logo.
 - Place on the PCB silk screen a license or statement of copywrite.
-- Enclosure design review. (Make card board mock up, Cable mock up. PCB mock up.) Make sure of clearance around all mounting hardware for screw / nut drivers.
+- Add "tooling holes" for PCB manufacturer.
+- If necessary, add rails for PWA manufacturing.
+- Enclosure design review. (Make card board Mockup, Cable Mockup. PCB Mockup.) Make sure of clearance around all mounting hardware for screw / nut drivers.
 - **Enclosure design freeze for prototype PCB. PCB outline and connector placement freeze.**
-- PCB outline import parts and make and connector placement. Make mock up for fit to enclosure
-- Milestone: PCB mechanical fit test, (PCB mock up with connector fits enclosure with cables etc...)
+- PCB outline import parts and make and connector placement. Make Mockup for fit to enclosure
+- Milestone: PCB mechanical fit test, (PCB Mockup with connector fits enclosure with cables etc...)
 - Component placement for optimum routing and heat and Electromagnetic compatibility.  Then route.
 - Connect through hole component traces to "teardrop" pads for strength. Route so that traces can be inspected (Not under connectors for example).
 - PCB passes DRC (Design rules check).
