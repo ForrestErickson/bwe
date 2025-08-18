@@ -61,7 +61,7 @@ This product development project is done with the completion of the following de
 - - Product pilot run (ready for production)
  - Quality Test Procedures
  - Manufacturing Test Procedure
- - Bill of Material for finished goods as packaged for sale
+ - Bill of Material for finished goods as packaged for sale (The **Catalog** item a distributor will stock and sell)
  - Bills of material sub assemblies
  - Troubleshooting reference materials and procedures, theory of operation.
 
