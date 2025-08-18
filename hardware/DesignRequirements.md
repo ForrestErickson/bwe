@@ -18,7 +18,8 @@
 - Minimal diversity of fasteners
 - Surfaces are not easily damaged during assembly
 - Can be disassembled and reassembled
-- Mold in user information and instructions
-- Mold in compliance decelerations
-- Proves location for model and serial number
+- For a plasctic enclosure, mold in user information and instructions
+- For a plasctic enclosure, mold in compliance decelerations
+- For a plasctic enclosure, mold in power input requirements.
+- Proves location for model and serial number label.
 - AC Line Power requires design for safety against shock and fire.
