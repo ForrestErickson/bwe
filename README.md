@@ -29,6 +29,8 @@ From start of design to first production.
 - Update Schematic release V0.0.2 etc...
 - Setup PCB software or train self for PCB manufacturing design rules.
 - Schematic approved for start of PCB layout V0.1.xx Passes schematic design rules check.
+- Set PCB outline and lock.
+- Set location of all parts which must constrain enclosure and lock.
 - Assign and place PCB part number on PCB silk screen.
 - Assign and place PCB version number on PCB silk screen.
 - Place on the PCB silk screen a location for Serial Number to be applied at start of manufacture.
