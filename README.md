@@ -22,6 +22,7 @@ From start of design to first production.
 - Product Functional Specification Released.
 - Proof of concept, sketches, drawings, Mockups, bread boards and wishful thinking.
 - Schematics and drawings for all parts in folders, electrical and mechanical.
+- Verify all components are RoHS.
 - Test points for manufacturing / troubleshooting especially for power.
 - Update parts master to assign Part Numbers
 - Schematic release V0.0.1 for initial review
@@ -53,6 +54,7 @@ From start of design to first production.
 - Engineering revise and release for rest of Prototype Run. Update of engineering, sales, legal documentation with photographs measurements of real hardware.
 - Firmware code review and release.
 - Factory Test in place.
+- RoHS incoming material verification proccess in place.
 - Changes and repeat all the above for Pilot Run (First sellable units with serial numbers etc.).
 
 ## Deliverables for This Project
