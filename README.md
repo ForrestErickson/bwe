@@ -22,6 +22,8 @@ From start of design to first production.
 - Product Functional Specification Released.
 - Proof of concept, sketches, drawings, Mockups, bread boards and wishful thinking.
 - Schematics and drawings for all parts in folders, electrical and mechanical.
+- Indicate polatiry on power in.
+- Regulartory compliance symbols (Schematic and PCB).
 - Verify all components are RoHS.
 - Test points for manufacturing / troubleshooting especially for power.
 - Update parts master to assign Part Numbers
