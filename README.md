@@ -74,3 +74,8 @@ This product development project is done with the completion of the following de
  ## Reference Documentation
  * A design review article: https://resources.altium.com/p/pcb-design-and-review-checklist
  * Writing Functional Vs Technical Specifications: Original Link: https://doyouevenerp.com/functional-vs-technical-specifications/ (Now at the Way Back Machine: https://web.archive.org/web/20220121192628/https://doyouevenerp.com/functional-vs-technical-specifications/)
+ * While no longer for sale, **Parts and Vendor**s was useful program for managing a part master.  It's manual is here: 
+[http://www.trilogydesign.com/downloads/PV6Manual.pdf](https://web.archive.org/web/20190204065030/http://www.trilogydesign.com/downloads/PV6Manual.pdf)
+This manual has a few very helpful ideas on design of a part number system on page 48 of 248. In these pages are ideas about part number adminsration which I want every beginner engineer to have insight.  Especial an engineer who starts a company.
+
+
