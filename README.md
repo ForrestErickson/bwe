@@ -4,16 +4,16 @@ Template for documentation to help beginners when developing a project / product
 
 ## Project plan for BWE
 File version control with GitHub
-Project management with GitHub project features, issues, milestone, issue templates.
+Project management with GitHub project features, issues, milestones, issue templates.
 
 Explanation of These Folders: 
 - HR, holds human resources information for the company which makes the BWE. Mix of public and private files.
-- assembly, holds the folders and files for assembly of the product.
+- assembly, holds the folders and files for assembly of the produced.
 - firmware, holds firmware for BWE
 - legal, holds documents requiring legal skills for management. Corporate documents, patent related information for the company which makes the BWE. Mix of public and private files.
 - marketing and sales, holds the marketing plans and history, Sales documents.  Mix of public and private files.
 - parts, holds specifications for all parts for PCB and enclosure etc. This folder has subfolders and a simple "Parts Master" spreadsheet.
-- The subfolder, "PCB" holds the schematic and PCB design files and the files generated from them.
+- The subfolder, "pcb" holds the schematic and PCB design files and the files generated from them.
 - testing, holds the product qualification test procedure and testing specifications and the factory test procedures for BWE.
 
 ## This project milestones
@@ -22,9 +22,6 @@ From start of design to first production.
 - Product Functional Specification Released.
 - Proof of concept, sketches, drawings, Mockups, bread boards and wishful thinking.
 - Schematics and drawings for all parts in folders, electrical and mechanical.
-- Indicate polatiry on power in.
-- Regulartory compliance symbols (Schematic and PCB).
-- Verify all components are RoHS.
 - Test points for manufacturing / troubleshooting especially for power.
 - Update parts master to assign Part Numbers
 - Schematic release V0.0.1 for initial review
@@ -32,8 +29,6 @@ From start of design to first production.
 - Update Schematic release V0.0.2 etc...
 - Setup PCB software or train self for PCB manufacturing design rules.
 - Schematic approved for start of PCB layout V0.1.xx Passes schematic design rules check.
-- Set PCB outline and lock.
-- Set location of all parts which must constrain enclosure and lock.
 - Assign and place PCB part number on PCB silk screen.
 - Assign and place PCB version number on PCB silk screen.
 - Place on the PCB silk screen a location for Serial Number to be applied at start of manufacture.
@@ -56,7 +51,6 @@ From start of design to first production.
 - Engineering revise and release for rest of Prototype Run. Update of engineering, sales, legal documentation with photographs measurements of real hardware.
 - Firmware code review and release.
 - Factory Test in place.
-- RoHS incoming material verification proccess in place.
 - Changes and repeat all the above for Pilot Run (First sellable units with serial numbers etc.).
 
 ## Deliverables for This Project
@@ -67,15 +61,10 @@ This product development project is done with the completion of the following de
 - - Product pilot run (ready for production)
  - Quality Test Procedures
  - Manufacturing Test Procedure
- - Bill of Material for finished goods as packaged for sale (The **Catalog** item a distributor will stock and sell)
+ - Bill of Material for finished goods as packaged for sale
  - Bills of material sub assemblies
  - Troubleshooting reference materials and procedures, theory of operation.
 
  ## Reference Documentation
  * A design review article: https://resources.altium.com/p/pcb-design-and-review-checklist
  * Writing Functional Vs Technical Specifications: Original Link: https://doyouevenerp.com/functional-vs-technical-specifications/ (Now at the Way Back Machine: https://web.archive.org/web/20220121192628/https://doyouevenerp.com/functional-vs-technical-specifications/)
- * While no longer for sale, **Parts and Vendor**s was useful program for managing a part master.  It's manual is here: 
-[http://www.trilogydesign.com/downloads/PV6Manual.pdf](https://web.archive.org/web/20190204065030/http://www.trilogydesign.com/downloads/PV6Manual.pdf)
-This manual has a few very helpful ideas on design of a part number system on page 48 of 248. In these pages are ideas about part number adminsration which I want every beginner engineer to have insight.  Especial an engineer who starts a company.
-
-
